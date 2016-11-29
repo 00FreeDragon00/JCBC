@@ -1100,11 +1100,12 @@ transition: all .3s;
     color: #ffffff;
     line-height: 20px;
 }
-
 .contact_info {
+    display: inline-flex;
     font-size: 15px;
     margin: 0 0 0 20px;
     padding-left: 0;
+
 }
 
 .contact_info  h3 {
@@ -1112,6 +1113,7 @@ transition: all .3s;
     font-weight: 600;
     margin: 0 0 30px;
     color: #fff;
+    
 }
 
 .contact_info p {
